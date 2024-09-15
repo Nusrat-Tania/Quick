@@ -14,6 +14,7 @@ header{
 	width: 90%;
 	/*border: 1px solid red;*/
 	margin: 0 auto;
+	padding-bottom: 1.75%;
 	overflow: hidden;
 }
 
@@ -59,9 +60,11 @@ header{
 	width: 55%;
 	margin: 0 auto;
 	font-family: sans-serif;
+	
 }
 .b_content{
    text-align: center;
+   font-family: sans-serif;
 }
 .banner h1{
 	margin: 0;
@@ -95,9 +98,9 @@ width: 75%;
 /*banner end*/
 /*success start*/
 .success{
-	padding: 60px 0px;
+	padding: 60px 0;
 }
-.container2{}
+
 .s_content{
 	overflow: hidden;
 	font-family: sans-serif;
@@ -125,12 +128,13 @@ width: 75%;
 	word-spacing: 1px;
 }
 .s_right{
-	width: 50%;
+	/*border: 1px solid;*/
+	width: 42%;
 	float: right;
 	padding: 0px 20px 0px 10px;
 }
 .s_right h1{
-	font-size: 45px;
+	font-size: 48px;
 	font-weight: 700;
 	color: #0F2656;
 	line-height: 50px;
@@ -144,12 +148,13 @@ width: 75%;
 	overflow: hidden;
 }
 .f_single{
-	width: 28%;
+	width: 27%;
+	/*border: 1px solid;*/
 	font-family: sans-serif;
 	padding: 30px 1.5% 45px;
 	color: #0F2656;
 	float: left;
-	margin-right: 3.5%;
+	margin-right: 5%;
 
 }
 .f_single:last-child{
@@ -174,7 +179,7 @@ width: 75%;
 	margin: 20px 0;
 }
 .f_single p{
-	font-size: 16px;
+	font-size: 17px;
 	font-weight: 400;
 	margin: 0;
 	
